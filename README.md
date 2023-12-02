@@ -2,9 +2,11 @@
 
 This is a TODO app made with Flutter. It is fully functional with a beautiful UI and has local storage for the backend.
 
-![image](https://github.com/Nikita-kumari/To_do_app/assets/72272391/ab6ef4dc-cbd0-407e-972f-d0f24322c046)
+![image](https://github.com/Nikita-kumari/To_do_app/assets/72272391/34d5f998-4141-4b92-a015-3f5e86d8cf8e)
 
-![image](https://github.com/Nikita-kumari/To_do_app/assets/72272391/4c2f300f-44d7-4b57-91e5-630411816678)
+
+![image](https://github.com/Nikita-kumari/To_do_app/assets/72272391/1ce09e84-29dd-426d-b86b-86d1668584b3)
+
 
 
 
